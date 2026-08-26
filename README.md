@@ -242,26 +242,6 @@ Locate the application's main Java class inside the `src` directory and run it u
 
 ---
 
-## 🖥️ Application Screenshots
-
-Add screenshots of the application here to demonstrate the user interface.
-
-### Main Interface
-
-![Main Interface](documentation/screenshots/main-interface.png)
-
-### Booking Management
-
-![Booking Management](documentation/screenshots/booking-management.png)
-
-### Records
-
-![Records](documentation/screenshots/records.png)
-
-> Replace the image paths above with the actual screenshot filenames in your repository.
-
----
-
 ## 🧪 Validation & Error Handling
 
 The application implements validation to maintain consistent and reliable booking records.
