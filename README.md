@@ -188,10 +188,6 @@ Commercial orders receive volume-based discounts:
 
 ```text
 LPG-Cylinder-Management/
-│
-├── documentation/
-│   └── ...
-│
 ├──src/
 │   └──  CommercialCylinder.java
 │   └── DomesticCylinder.java
